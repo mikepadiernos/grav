@@ -39,6 +39,13 @@ Congratulations! You have installed the **Base Grav Package** that provides a **
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
 ### Edit this Page
+```
+ck out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+
+!!! If you wan
+```
+
+
 
 To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
 
